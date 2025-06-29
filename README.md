@@ -1,1 +1,2 @@
-hiding an Image and sceret text inside  Steganography using Python.
+hiding information in image using Stenography 
+
